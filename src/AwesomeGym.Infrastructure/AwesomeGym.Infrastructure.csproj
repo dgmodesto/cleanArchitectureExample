@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\AwesomeGym.Core\AwesomeGym.Core.csproj" />
+    <ProjectReference Include="..\AwesomeGym.Core\AwesomeGym.Core.csproj" />
   </ItemGroup>
 
 </Project>
